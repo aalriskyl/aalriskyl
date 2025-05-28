@@ -30,5 +30,5 @@ Experienced in developing internal systems, integrating APIs, and crafting UI wi
 ---
 
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalriskyl)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalriskyl&layout=compact&theme=tokyonight" />
 </p>
