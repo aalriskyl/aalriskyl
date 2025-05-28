@@ -28,7 +28,4 @@ Experienced in developing internal systems, integrating APIs, and crafting UI wi
 - 💻 [GitHub](https://github.com/aalriskyl)
 
 ---
-
-<p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalriskyl)](https://github.com/PencilNavigator/readme-stats-URL/)
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalriskyl&layout=compact&theme=dark)
